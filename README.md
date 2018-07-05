@@ -1,0 +1,2 @@
+# StaticFragment
+Learning Static Fragment
